@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1748972064 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"AverageSalesCalculations.h"
+
+1748971168 c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\averagesalescalculations.h
+
