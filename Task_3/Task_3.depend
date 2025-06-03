@@ -1,8 +1,9 @@
 # depslib dependency file v1.0
-1748973498 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\main.c
+1748976169 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\main.c
 	<stdio.h>
 	<stdlib.h>
 	"AverageSalesCalculations.h"
+	"CalculateCommission.h"
 
 1748971168 c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\averagesalescalculations.h
 
@@ -10,9 +11,15 @@
 	<stdio.h>
 	"AverageSalesCalculations.h"
 
-1748973454 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\calculatecommission.c
+1748973962 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\calculatecommission.c
 	<stdio.h>
 	"CalculateCommission.h"
 
 1748973454 c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\calculatecommission.h
+
+1748976264 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\depreciation.c
+	<stdio.h>
+	"depreciation.h"
+
+1748975520 c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\depreciation.h
 
