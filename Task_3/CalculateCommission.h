@@ -1,0 +1,5 @@
+#ifdef CALCULATECOMMISSION_H
+#define CALCULATECOMMISSION_H
+
+void CalculatedCommission();
+#endif // CALCULATECOMMISSION_H

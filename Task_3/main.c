@@ -4,6 +4,7 @@
 
 int main()
 {
-    CalculateAverageSales();
+    //CalculateAverageSales();
+    CalculatedCommission();
     return 0;
 }
