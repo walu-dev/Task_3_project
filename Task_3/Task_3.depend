@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1749026943 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\main.c
+1749029673 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\main.c
 	<stdio.h>
 	<stdlib.h>
 	"AverageSalesCalculations.h"
@@ -30,4 +30,10 @@
 	"AnnualSalary.h"
 
 1749025977 c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\annualsalary.h
+
+1749029628 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\totalrevenue.c
+	<stdio.h>
+	"TotalRevenue.h"
+
+1749029150 c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\totalrevenue.h
 

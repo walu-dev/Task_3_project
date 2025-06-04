@@ -10,6 +10,7 @@ int main()
     //CalculateAverageSales();
     //CalculatedCommission();
     //CalculateDepreciation();
-    CalculateAnnualSalary();
+    //CalculateAnnualSalary();
+    CalculateTotalRevenue();
     return 0;
 }
