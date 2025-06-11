@@ -1,4 +1,4 @@
-#ifdef DEPRECIATION_H
+#ifndef DEPRECIATION_H
 #define DEPRECIATION_H
 
 void CalculateDepreciation();
