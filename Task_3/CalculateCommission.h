@@ -1,4 +1,4 @@
-#ifdef CALCULATECOMMISSION_H
+#ifndef CALCULATECOMMISSION_H
 #define CALCULATECOMMISSION_H
 
 void CalculatedCommission();
