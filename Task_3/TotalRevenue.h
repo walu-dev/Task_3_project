@@ -1,4 +1,4 @@
-#ifdef TOTALREVENUE_H
+#ifndef TOTALREVENUE_H
 #define TOTALREVENUE_H
 
 void CalculateTotalRevenue();
