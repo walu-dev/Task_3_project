@@ -1,4 +1,4 @@
-#ifdef ANNUALSALARY_H
+#ifndef ANNUALSALARY_H
 #define ANNUALSALARY_H
 
 void CalculateAnnualSalary();
