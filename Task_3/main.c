@@ -4,6 +4,7 @@
 #include "CalculateCommission.h"
 #include "depreciation.h"
 #include "AnnualSalary.h"
+#include "TotalRevenue.h"
 
 int main()
 {

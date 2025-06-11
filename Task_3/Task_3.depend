@@ -1,11 +1,12 @@
 # depslib dependency file v1.0
-1749029673 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\main.c
+1749633356 source:c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\main.c
 	<stdio.h>
 	<stdlib.h>
 	"AverageSalesCalculations.h"
 	"CalculateCommission.h"
 	"depreciation.h"
 	"AnnualSalary.h"
+	"TotalRevenue.h"
 
 1748971168 c:\users\hp\desktop\jonathan docu\comp office\c program\task_3_project\task_3\averagesalescalculations.h
 
